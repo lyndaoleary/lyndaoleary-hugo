@@ -1,3 +1,7 @@
 baseurl = "http://lyndaoleary.github.io/"
 languageCode = "en-us"
 title = "Lynda O'Leary"
+
+[params]
+	description = "Tesla's Awesome Hugo Site"
+	author = "Nikola Tesla"
